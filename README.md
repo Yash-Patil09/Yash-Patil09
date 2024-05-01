@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Patil09&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 LeetCode Stats:
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YashPatil_09&theme=radical)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YashPatil_09&theme=dark)
 
 
 
