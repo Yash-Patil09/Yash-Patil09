@@ -10,19 +10,22 @@ class Solution {
         int ptr = ans.length-1;
 
         //loop
-        while(start<=end){
-            int ss = nums[start]*nums[start];
-            int es = nums[end]*nums[end];
+        while( start <= end){
 
-            if(ss>es){
+            int ss = nums[start] * nums[start];
+            int es = nums[end] * nums[end];
+
+            if(ss > es){
                 ans[ptr] = ss;
                 start++;
             }else{
                 ans[ptr] = es;
                 end--;
             }
+            
             ptr--;
         }
+
         return ans ;
     }
 }
