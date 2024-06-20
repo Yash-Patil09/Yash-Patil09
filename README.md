@@ -1,6 +1,7 @@
 # 💫 About Me:
 - 👋 IT student from Mumbai<br>- 💡 Passionate about ML and Data Science<br>- 🌐 Solving real-world challenges with tech<br>- 📚 Active learner through projects and courses<br>- 🚀 Let's innovate together!
-
+---
+[![](https://visitcount.itsvg.in/api?id=Yash-Patil09&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yashhhrajputt/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yash-patil-231898259) 
@@ -13,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Patil09&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 LeetCode Stats:
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YashPatil_09)
+![LeetCode Stats]([https://leetcode-stats-six.vercel.app/api?username=YashPatil_09](https://leetcode.com/u/YashPatil_09/))
 
 
 
@@ -21,6 +22,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yash-Patil09&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
